@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": "2efa",
+      "nome": "Bolo",
+      "preco": "10,00",
+      "tipo": "Chocolate"
+    },
+    {
+      "id": "07c2",
+      "nome": "Bolo",
+      "preco": "15,00",
+      "tipo": "Chocolate com Morango"
+    },
+    {
+      "id": "559f",
+      "nome": "Bolo",
+      "preco": "7,00",
+      "tipo": "Fubá"
+    }
+  ]
+}
